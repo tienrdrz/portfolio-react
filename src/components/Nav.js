@@ -1,39 +1,38 @@
 import React from 'react';
+import { Link } from 'react-router-dom';
 
-const Nav = () => {
+export default function Nav ()  {
     return(
         <header>
   <h2>
-    <a href="/">
+    <Link to="/">
     Portfolio
-    </a>
+    </Link>
   </h2>
   <nav className='navbar'>
     <ul className="flex-row">
       <li className="mx-2">
-        <a href="/portfolio-react/home">
+        <Link to="/home">
           Home
-        </a>
+        </Link>
       </li>
       <li className="mx-2">
-        <a href="/portfolio-react/projects">
+        <Link to="/projects">
           My Projects
-        </a>
+        </Link>
       </li>
       <li className="mx-2">
-        <a href="/portfolio-react/about">
+        <Link to="/about">
           About me
-        </a>
+        </Link>
       </li>
       <li className="mx-2">
-        <a href="/portfolio-react/contact">
+        <Link to="/contact">
           Contact
-        </a>
+        </Link>
       </li>
     </ul>
   </nav>
         </header>
     )
 }
-
-export default Nav;
