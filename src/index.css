@@ -102,10 +102,16 @@ header {
   z-index: 9999;
   justify-content: space-between;
   background: #687a68;
+  align-items: center;
   }
 
 header a {
   color: var(--light);
+}
+
+nav {
+  list-style: none;
+  text-decoration: none;
 }
 
 .flex-row {

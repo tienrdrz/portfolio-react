@@ -8,14 +8,30 @@ import Projects from './components/Projects';
 import Footer from './components/Footer'
 
 function App() {
+  let page
+  switch (window.location.pathname) {
+    case "/home":
+      page = <Home />
+      break
+    case "/projects":
+      page = <Projects />
+      break
+      case "/about":
+        page = <About />
+        break
+        case "/contact":
+      page = <Contact/>
+      break
+  }
   return (
 <main>
     <Nav />
-    <Home />
+    {page}
+    {/* <Home />
     <Projects />
     <About />
-    <Contact />
-    <Footer /> 
+    <Contact />*/}
+    <Footer />  
 </main>
   );
 }

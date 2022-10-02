@@ -8,25 +8,25 @@ const Nav = () => {
     Portfolio
     </a>
   </h2>
-  <nav>
+  <nav className='navbar'>
     <ul className="flex-row">
       <li className="mx-2">
-        <a href="#home">
+        <a href="/home">
           Home
         </a>
       </li>
       <li className="mx-2">
-        <a href="#projects">
+        <a href="/projects">
           My Projects
         </a>
       </li>
       <li className="mx-2">
-        <a href="#about">
+        <a href="/about">
           About me
         </a>
       </li>
       <li className="mx-2">
-        <a href="#contact">
+        <a href="/contact">
           Contact
         </a>
       </li>
