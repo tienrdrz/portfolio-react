@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/portfolio-react/static/css/main.ec7a4298.css",
+    "main.js": "/portfolio-react/static/js/main.1de13cd1.js",
+    "static/media/RunBuddy.PNG": "/portfolio-react/static/media/RunBuddy.e6b879738b151a0f266d.PNG",
+    "static/media/GiftYouUp.png": "/portfolio-react/static/media/GiftYouUp.e85ca96c88f000800e3e.png",
+    "static/media/coverImage.png": "/portfolio-react/static/media/coverImage.77dc41ca8b4810804d71.png",
+    "static/media/Sql.png": "/portfolio-react/static/media/Sql.85fb38d6773862e917f4.png",
+    "static/media/Nodejs.png": "/portfolio-react/static/media/Nodejs.abfaef34ea49d0c7cd3c.png",
+    "static/media/JavaScript-Logo.png": "/portfolio-react/static/media/JavaScript-Logo.ba8930b16477cd078808.png",
+    "static/media/NoteTaker.PNG": "/portfolio-react/static/media/NoteTaker.f06a4e147d16c7e6d45b.PNG",
+    "static/media/JATE.PNG": "/portfolio-react/static/media/JATE.a664efbeefc550286a0e.PNG",
+    "index.html": "/portfolio-react/index.html",
+    "main.ec7a4298.css.map": "/portfolio-react/static/css/main.ec7a4298.css.map",
+    "main.1de13cd1.js.map": "/portfolio-react/static/js/main.1de13cd1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ec7a4298.css",
+    "static/js/main.1de13cd1.js"
+  ]
+}
