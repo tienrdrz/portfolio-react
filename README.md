@@ -31,3 +31,4 @@ You may also see any lint errors in the console.
 
 ## Deployed URL
 
+https://tienrdrz.github.io/portfolio-react/
