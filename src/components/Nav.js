@@ -11,22 +11,22 @@ const Nav = () => {
   <nav className='navbar'>
     <ul className="flex-row">
       <li className="mx-2">
-        <a href="/home">
+        <a href="/portfolio-react/home">
           Home
         </a>
       </li>
       <li className="mx-2">
-        <a href="/projects">
+        <a href="/portfolio-react/projects">
           My Projects
         </a>
       </li>
       <li className="mx-2">
-        <a href="/about">
+        <a href="/portfolio-react/about">
           About me
         </a>
       </li>
       <li className="mx-2">
-        <a href="/contact">
+        <a href="/portfolio-react/contact">
           Contact
         </a>
       </li>

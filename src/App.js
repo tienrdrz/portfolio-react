@@ -10,16 +10,16 @@ import Footer from './components/Footer'
 function App() {
   let page
   switch (window.location.pathname) {
-    case "/home":
+    case "/portfolio-react/home":
       page = <Home />
       break
-    case "/projects":
+    case "/portfolio-react/projects":
       page = <Projects />
       break
-      case "/about":
+      case "/portfolio-react/about":
         page = <About />
         break
-        case "/contact":
+        case "/portfolio-react/contact":
       page = <Contact/>
       break
   }
