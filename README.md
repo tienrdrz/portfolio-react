@@ -27,7 +27,7 @@ You may also see any lint errors in the console.
 
 ## Screenshot
 
-Screenshot.PNG
+![image](https://user-images.githubusercontent.com/100370557/193465407-57017cf7-a585-43fc-967c-63e60f43e83a.png)
 
 ## Deployed URL
 
