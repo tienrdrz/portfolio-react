@@ -16,6 +16,9 @@ function App() {
     case "/portfolio-react/projects":
       page = <Projects />
       break
+      case "/projects":
+        page = <Projects />
+        break
       case "/portfolio-react/about":
         page = <About />
         break
