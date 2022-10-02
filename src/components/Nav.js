@@ -5,7 +5,7 @@ const Nav = () => {
         <header>
   <h2>
     <a href="/">
-      <span role="img" aria-label="camera"> </span> Portfolio
+    Portfolio
     </a>
   </h2>
   <nav>

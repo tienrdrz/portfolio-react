@@ -39,7 +39,7 @@ export default function Projects() {
         }
     ]
     return(
-        <div className='projects'>
+        <div name='projects'>
             <h1> My Favourite Projects</h1>
             <p> Make sure to check out each repository!</p>
                 <div className="projects-container">
