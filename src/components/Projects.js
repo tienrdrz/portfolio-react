@@ -3,6 +3,7 @@ import GiftYouUp from '../assets/Images/GiftYouUp.png';
 import Jate from '../assets/Images/JATE.PNG';
 import NoteTaker from '../assets/Images/NoteTaker.PNG';
 import RunBuddy from '../assets/Images/RunBuddy.PNG';
+import MakeADeal from '../assets/Images/MakeADeal.png'
 
 export default function Projects() {
     const projects = [
@@ -35,8 +36,17 @@ export default function Projects() {
             title: "Run Buddy",
             link: "https://github.com/tienrdrz/run-buddy",
             src: RunBuddy,
-            alt: "A mock fitness website based on HTML and CSS"
-        }
+            alt: "A mock fitness website based on HTML and CSS",
+            desc: "A fitness webpage"
+        },
+        {
+            id: 5,
+            title: "MakeADeal",
+            link: "https://github.com/tienrdrz/MakeADeal",
+            src: MakeADeal,
+            alt: "MakeADeal is a digital marketplace",
+            desc: "A digital marketplace"
+        },
     ]
     return(
         <div name='projects'>
